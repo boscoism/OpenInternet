@@ -16,9 +16,6 @@
         p {
             font-size: medium;
         }
-        mdodsfsd {
-            color: blue;
-        }
     </style>
 
 </head>
@@ -34,9 +31,7 @@
     
     <button onClick="alertMe()">Make an alert</button> <!-- Wait, so you can just type "button" and it makes a button?? Neat!-->
 
-    <div id="first"></div>
-    <div id="second"></div>
-
+    
 </body>
 </html>
 
