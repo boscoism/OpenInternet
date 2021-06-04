@@ -527,4 +527,4 @@ Ok so I have coolguy.html and its all my cool text and titles, but it looks lame
     And you can make lots of different buttons that do different things, as they are by far the 
         easiest way to add neat functions to your code.
 
-    Go nuts, try it out!
+    Go nuts, try it out!!
