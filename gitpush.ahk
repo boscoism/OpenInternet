@@ -1,4 +1,5 @@
 ﻿F4::
-Send, git add -a
-Send, git commit -a
-Send, git push
+Send, git add --all {enter}
+Send, git commit --all {enter}
+Send, New Commit :wq{enter}
+Send, git push {enter}
