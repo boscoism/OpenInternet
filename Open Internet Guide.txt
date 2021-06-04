@@ -38,6 +38,38 @@ For information regarding this installation, please visit  * boscoism.design/Ope
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    ____ _                 _              _ 
   / ___| |__   __ _ _ __ | |_ ___ _ __  / |
  | |   | '_ \ / _` | '_ \| __/ _ \ '__| | |
@@ -45,6 +77,7 @@ For information regarding this installation, please visit  * boscoism.design/Ope
   \____|_| |_|\__,_| .__/ \__\___|_|    |_|
                    |_|          
 01000011 01101000 01100001 01110000 01110100 01100101 01110010  00110001 
+
 
 What page should I make??
 
@@ -54,26 +87,59 @@ What page should I make??
     But here are some ideas to get you started:
     
         Make one about you! put a lil picture of your face,your hobbies, etc
+
         Make one about your work! list the stuff you do and put an email or something
-        Make one honoring forgotten Gods! Draw an ascii demonic circle and have a digital altar to Z̢̫̜̙a͈̘̹̗̰̕l̲̙̮̫͜g҉̛̲̻o̴̴̦̣̯.
+
+        Make one honoring forgotten Gods! Draw an ascii demonic circle and have a digital altar to
+            Z̢̫̜̙a͈̘̹̗̰̕l̲̙̮̫͜g҉̛̲̻o̴̴̦̣̯.
+
         Make one about your cat! Look how cute it is!!!
+
         Write a story! It's always nice to share some creativity online!
-        Curate a list of your favourite websites! You can have a little introduction, and then list all the cool netscapes.
-        Make 10,000 pages for your sonic OC! Create a deep rich world of interconnecting characters and stories, all centered around Blade the Hedgehog.
-        Make one critiquing this Exhibiition! How dumb or cool, you may say. Computers? Who would have thought!
-        Distribute marxist literature!
+
+        Curate a list of your favourite websites! You can have a little introduction, and then list
+            all the cool netscapes.
+
+        Make 10,000 pages for your sonic OC! Create a deep rich world of interconnecting characters 
+            and stories, all centered around Blade the Hedgehog.
+
+        Make one critiquing this Exhibiition! How dumb or cool, you may say. Computers? Who would 
+            have thought!
+
+        Distribute Marxist literature!
+
         Call everyone you disagree with cowards!
         etc.
 
-
-
 But why??
 
-    This one is a bit harder. But why does anyone make anything? If I handed you a pen and a blank piece of paper, you might draw a silly little picture or write your name. Why? Who knows.
+    This one is a bit harder. But why does anyone make anything? If I handed you a pen and a blank 
+        piece of paper, you might draw a silly little picture or write your name. Why? Who knows.
 
-    But hopefully this one site a more clear meta purpose. The pages made here, from anyone, end up as a memento of this exhibition, a time capsule of what you thought was important or fun or novel or stupid at this point in time.
+    But hopefully this site has a more clear meta purpose. The pages made here, from anyone, end up
+        as a memento of this exhibition, a time capsule of what you thought was important or fun or
+        novel or stupid at this point in time.
 
-    Leaving a page here is adding to a tapestry. It's leaving a mark for the sake of it. Not so your mark can be used as data or tracked or whatever else normal websites do. But purely because marks are meant to be made.
+    Leaving a page here is adding to a tapestry. It's leaving a mark for the sake of it. Not so 
+        your mark can be used as data or tracked or whatever else normal websites do. But purely 
+        because marks are meant to be made.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -90,60 +156,136 @@ But why??
 
 But how do I even do it? I don't know anything about coding!
 
-    Don't worry, this stuff is easy. The big secret of the coding world is literally anyone can do it. This book will give you the basic tools needed to express yourself through code.
+    Don't worry, this stuff is easy. The big secret of the coding world is literally anyone can do 
+        it. This book will give you the basic tools needed to express yourself through code.
 
-    This covers how to make a page, how to add text and images, and a tiny bit of how to add basic functions and looks to your stuff.
-
+    This covers how to make a page, how to add text and images, and a tiny bit of how to add basic
+        functions and looks to your stuff.
 
 
 So, how do I even make a page?
 
-    A page is very easy to make. So, in the OpenInternet folder on the computer you are using, just make a file called "whatever.html", where whatever is anything really.
-    In this weird program thats loaded, you can do that by right clicking on the black bar to the left, where you can see a big list of files already.
+    A page is very easy to make. So, in the OpenInternet folder on the computer you are using, just
+        make a file called "whatever.html", where whatever is any name you want.
+
+    In this weird program thats loaded, you can do that by right clicking on the black bar to the 
+        left, where you can see a big list of files already.
+
     Then, in that big list of files, you'll see one called Copy-Paste_Things.html.
     Copy that from there, and paste it in your "whatever.html" file.
 
     Slam that big red button when you're done.
 
-    It's that easy! now you have your own webpage! You can access it from wherever now, by going to boscoism.design/OpenInternet/whatever.html.
+    It's that easy! now you have your own webpage! You can access it from wherever now, by going to
+        boscoism.design/OpenInternet/whatever.html.
 
-    Send the link to your friends? add it to your bookmarks? share it on social media? neglect it forever? Do whatever with it, but now it exists out there in the """INTERNET"""
+    Send the link to your friends? add it to your bookmarks? share it on social media? neglect it 
+        forever? Do whatever with it, but now it exists out there in the """INTERNET""".
+        Even print it out and frame it on your wall
 
 
-So I have my page, coolguy.html, whow do I make it reflect the cool guy I am?
+
+
+
+So I have my page, coolguy.html, how do I make it reflect the cool guy I am?
 
     This is pretty straightforward too. We can start with a crash course in html.
 
-    Html is a programming language, but very easy to use. Basically, you have these little tags, like so: <heading></heading> the one with the weird / is the end
-    in this heading tag, if we put something between, such as lets say <heading> Cool Guy's Awesome Website! </heading>, then it will look like a heading when you open it in a browser.
+    Html is a programming language, but very easy to use. Basically, you have these little tags, 
+        like so: <heading></heading> the one with the weird "/" is the end
+
+    In this heading tag, if we put something between, such as lets say 
+        <heading> Cool Guy's Awesome Website! </heading>, then it will look like a heading when
+        you open it in a browser.
     
-    You can see an example of this in your new website. <h1></h1> Stands for heading 1, and it just means a big heading. As you can see when you load your page, Edit Me! is in big letters.
+    You can see an example of this in your new website. <h1></h1> Stands for heading 1, and it
+        just means a big heading. As you can see when you load your page, Edit Me! is in big 
+        letters.
+
     Pretty nifty.
 
-    Html is all structured around these tags. You just put your content in them, and then the browser just shows them all in the order you type them in.
+    Html is all structured around these tags. You just put your content in them, and then the
+        browser just shows them all in the order you type them in.
+
+
+
+
+
+
+
+
+
+
+
 
     In your cool new site, you can see a few easy ones we can talk about. 
     
-    <body></body>       -   Everything in here is the stuff that shows up on your web page. Stuff not in body (for instance the stuff in head or script) doesnt get shown. Put all your cool content here
 
-    <h1></h1>           -   We already covered this, these are your big headings. h1-h7 exist, each one a bit smaller. These make nice section breaks.
 
-    <p></p>             -   <p> stands for "paragraph". If you put text in here, it will automatically structure it in a nice readable way. Very useful, you'll use it all the time.
+    <body></body>       -   Everything in here is the stuff that shows up on your web page. Stuff
+                            not in body (for instance the stuff in head or script) doesnt get 
+                            shown. Put all your cool content here
+
+    <h1></h1>           -   We already covered this, these are your big headings. h1-h7 exist, 
+                            each one a bit smaller. These make nice section breaks.
+
+    <p></p>             -   <p> stands for "paragraph". If you put text in here, it will 
+                            automatically structure it in a nice readable way. Very useful, you'll
+                            use it all the time.
     
-    <img src="">        -   This one doenst even need an /end. This is a nice little thing for images. The "src" thats there means source, and it defines what image gets shown. You can copy paste an image url from the internet into there, like you can see.
+    <img src="">        -   This one doenst even need an /end. This is a nice little thing for 
+                            images. The "src" means source, and it defines what image 
+                            gets shown. You can copy paste an image url from the internet into 
+                            there, like you can see.
 
-    <br>                -   This also doesn't need an end. This one is just an empty line, it stands for break, as in line break. Very useful.
 
-    <button></button>   -   A button! So descriptive. This makes a button you can click on. You can see in the demo an ` onclick="" ` thing. Thats what the button does when you click on it.
 
-    <div id=""></div>         -   Divs, short for divisions, are generic blank boxes. You can put whatever in them, and they are used alot because they can be changed so easily, and have no rules associated.. We can cover the id later.
+    <br>                -   This also doesn't need an end. This one is just an empty line, it 
+                            stands for break, as in line break. Very useful.
 
-    Html tags are all completely free. That is to say, you can use as many as you like, and no one can stop you. A billion buttons? sure! 3 bodies? I dont know what would happen, but you could find out!
-    So try it out. Put a bunch of useless junk on your brand new page, and get a feel for it. We can dive into those weird <style> and <script> things after you got this.
-    Put em in other peoples pages! This isnt a sacred space. Now you know how it works, mess with other peoples fuzz. They probably deserve it! And dont get too mad if your fuzz gets messed either. The internets a lawless place, when you dont have big tech companies enforcing things. Who even put them in charge anyway?
-    You can also get inspiration from and even steal content from other peoples pages. Its all just text after all, copy and paste to your hearts content.
+    <button></button>   -   A button! So descriptive. This makes a button you can click on. You can
+                            see in the demo an ` onclick="" ` thing. Thats what the button does 
+                            when you click on it.
 
-    And now youve made changes again, press that big red button. And give it a few minutes, and you'll be able to see your brand new site. how cool! it's all yours.
+    <div id=""></div>   -   Divs, short for divisions, are generic blank boxes. You can put 
+                            whatever in them, and they are used alot because they can be changed so
+                            easily, and have no rules associated. We can cover the id later. (ch.4)
+
+    Html tags are all completely free. That is to say, you can use as many as you like, and no one
+        can stop you. A billion buttons? sure! 3 bodies? I dont know what would happen, but you 
+        could find out!
+
+    So try it out. Put a bunch of useless junk on your brand new page, and get a feel for it. We can
+        dive into those weird <style> and <script> things after you got this.
+
+    Put em in other peoples pages! This isnt a sacred space. Now you know how it works, mess with 
+        other peoples fuzz. They probably deserve it! And dont get too mad if your fuzz gets messed 
+        either. The internets a lawless place, when you dont have big tech companies enforcing 
+        things. Who even put them in charge anyway?
+
+    You can also get inspiration from and even steal content from other peoples pages. Its all just
+    text after all, copy and paste to your hearts content.
+
+    And now you've made changes again, press that big red button. And give it a few minutes, and 
+    you'll be able to see your brand new site. how cool! it's all yours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -160,11 +302,14 @@ So I have my page, coolguy.html, whow do I make it reflect the cool guy I am?
                               | $$                                                    
                               |__/                                                    
 
-Ok so I have coolguy.html and its all my cool text and titles, but it looks lame. And arent sites meant to do stuff???!?! If i just wanted to write things, I could use a pdf.
+Ok so I have coolguy.html and its all my cool text and titles, but it looks lame. And arent sites
+    meant to do stuff???!?! If i just wanted to write things, I could use a pdf.
 
-    Ok calm down cool guy, I get your point. It looks pretty terrible right now, thats for sure. Man, your website really sucks lol. 
+    Ok calm down cool guy, I get your point. It looks pretty terrible right now, thats for sure.
+        Man, your website really sucks lol. 
 
-    This is where that <style> tag comes in. All the stuff in that <style> tag defines how your fuzz looks. You can see in the demo, how it says
+    This is where that <style> tag comes in. All the stuff in that <style> tag defines how your 
+        fuzz looks. You can see in the demo, how it says
 
     h1 {
         color: red;
@@ -173,31 +318,127 @@ Ok so I have coolguy.html and its all my cool text and titles, but it looks lame
     What this translaltes to is roughyl:
     I'm about to set out some rules for what a h1 should look like : {  all my rules go in here  }
 
-    And as you can see, the rules you can set are pretty straight forward. You got stuff like color, font size, background color. And isn't it convenient, that you can just type in a color? pretty cool, try different ones.
+    And as you can see, the rules you can set are pretty straight forward. You got stuff like color,
+        font size, background color. And isn't it convenient, that you can just type in a color? 
+        Pretty cool, try different ones.
 
-    Those ones are all pretty self explanatory. So in your demo styles, you've decided that heading text should be red, paragraphs should be a normal size, and the whole site's background should be "whitesmoke"? What kind of color is that?
-    I probably wouldn't have made those weird choices, but it's your site I guess, you do you.
+    Those ones are all pretty self explanatory. So in your demo styles, you've decided that heading
+        text should be red, paragraphs should be a normal size, and the whole site's background 
+        should be "whitesmoke"? What kind of color is that?
 
-    So you can define the style of any tag. You wanna make <img> tags red? I dont thik it will look any different, but go ahead. Buttons should have 'x-small' font? Ok I guess, weirdo.
+    I probably wouldn't have made those choices, but it's your site I guess, you do you.
+
+
+
+
+    So you can define the style of any tag. You wanna make <img> tags red? I don't think it will 
+        look any different, but go ahead. Buttons should have 'x-small' font? Ok I guess, weirdo.
     
-    Now, if you think to yourself, "but I want my stuff to look different!" Theres some fun tricks. You know how theres a bunch of predefined tags? Well you can use literally anything.
-    so, `<asiyfgdsifhkdsbfd> Hi I'm really cool </asiyfgdsifhkdsbfd>` is a valid piece of html. and then in styles, you could say:
+    Now, if you think to yourself, "but I want my stuff to look different!" Theres some fun tricks.
+        You know how theres a bunch of predefined tags? Well you can use literally anything.
 
-    asiyfgdsifhkdsbfd {
-        color: blue;
-        font-size: large;
-    }
+    So, `<asiyfgdsifhkdsbfd> Hi I'm really cool </asiyfgdsifhkdsbfd>` is a valid piece of html. 
+        and then in styles, you could say:
 
-    and it will work! how weird is that. It just kinda lets you do whatever. If you feel yourself being limited, just do that. And you can use styles to define how they look and feel anyway.
+        asiyfgdsifhkdsbfd {
+            color: blue;
+            font-size: large;
+        }
+
+    and it will work! how weird is that. It just kinda lets you do whatever. If you feel yourself
+        being limited, just do that. And you can use styles to define how they look and feel 
+        anyway.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     Here are some other neat style rules you can try:
 
-    border: 1px solid black         - This sets the border. You feed it a pixel width, a style (solid, dotted, double, dashed), and then a color
+
+
+    border: 1px solid black;        -   This sets the border. You feed it a pixel width, a style 
+                                        (solid, dotted, double, dashed), and then a color
+
+    text-align: center;             -   This changes the alignment within the tag, you could left,
+                                        right, justified
+    
+    font-family: verdana;           -   Changes the style of the font! Try stuff like Arial, 
+                                        Tahoma, Helvetica, Georgia, Garamond, Courier New, etc.
+
+    margin: 5px; or margin: 5%;     -   Adds a margin to the element. Margins add blank space 
+                                        outside of the element.
+
+    padding: 5px; or padding: 5%;   -   Adds padding to an element. Padding is blank space inside 
+                                        the element.
+
+    width and height                -   Change the width and height, in pixels or percentages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  ____ __  __  ___  _____ _____ _____ _____    4
 ((    ||==|| ||=|| ||_//  ||   ||==  ||_//      4
  \\__ ||  || || || ||     ||   ||___ || \\        4
+
 
 *This chapter is not for the faint of heart, and if you just want to make simple pages, stop here*
 
@@ -219,45 +460,71 @@ Ok so I have coolguy.html and its all my cool text and titles, but it looks lame
     }
 
 
-    and then, when you want to do "all the stuff my function does", all you have to do is say its name elsewhere in the code.
+    and then, when you want to do "all the stuff my function does", all you have to do is say 
+        its name elsewhere in the code.
+
     In the demo, you can see that we have it in the onclick on the button.
 
     as for the stuff you can do, it gets a bit complicated. You can do a lot of whacky stuff.
 
-    A basic thing is alerts. As you can see in the copied code, when you have "alert("message"); " as a line, it makes a little popup. This is a function that javascript has baked in.
+    A basic thing is alerts. As you can see in the copied code, when you have "alert("message"); "
+        as a line, it makes a little popup. This is a function that javascript has baked in.
     
-
     A big thing you might want to do is change the text or pictures, based on stuff being clicked.
 
     so say you have your button onclick running alertMe().
-    Inside alertMe(), you can tell the html to change itself. To do this, the easiest way is with id's.
+
+    Inside alertMe(), you can tell the html to change itself. To do this, the easiest way is with 
+        id's.
+
     You can see the divs both have an id thats unique. We use that to talk about it.
-    so in our code, when we write 
-    document.getElementByID("first");
-    we are talking about the div whichas the id "first". To change the contents, we can do this:
+
+    So in our code, when we write:       document.getElementByID("first");
+
+    We are talking about the div whichas the id "first". To change the contents, we can do this:
         
         document.getElementById("first").innerHTML = "This is my new text inside the div";
 
-    innerHTML gets the inside of the div (which right now is nothing), and then we replace it with the text on the right.
-    This would put the text on the right side of the equals, into the thing you specify on the left side. This is a rpetty standard pattern for making things be something new. Old thing = new thing.
+    innerHTML gets the inside of the div (which right now is nothing), and then we replace it with 
+    the text on the right.
+
+    This would put the text on the right side of the equals, into the thing you specify on the left
+        side. This is a pretty standard pattern for making things be something new. 
+        Old thing = new thing.
 
     So if you change your code to
 
-    function alertMe() {
-        alert("Make somehting pop up!!");
-        document.getElementById("first").innerHTML = "This is my new text inside the div";
-    }
+        function alertMe() {
+            alert("Make somehting pop up!!");
+            document.getElementById("first").innerHTML = "This is my new text inside the div";
+        }
 
     When you press the button, it will play the alert, and then change the text in the div. 
 
-    Things to keep in mind with this, is that you can give an id to any element, including headings and paragraphs and buttons etc.
+    Things to keep in mind with this, is that you can give an id to any element, including 
+        headings and paragraphs and buttons etc.
+
+
+
+
+
+
+
 
     Some other neat things you can do include:
 
-    document.getElementById('myImage').src = *new picture url*;        -    Changes the src of an image, so you can have stuff change on button press. You ened to give your img an id to make this work.
 
-    document.getElementById('first').style.color = "purple";           -    You cna change things style on the fly! So your div can now have purple text, when you press the button.
 
-    And you can make lots of different buttons that do different things, as they are by far the easiest way to add neat functions to your code.
+
+    document.getElementById('myImage').src = *new picture url*;        
+        -    Changes the src of an image, so you can have stuff change on button press. You need 
+             to give your img an id to make this work.
+
+    document.getElementById('first').style.color = "purple";           
+        -    You can change things style on the fly! So your div can now have purple text, when 
+             you press the button.
+
+    And you can make lots of different buttons that do different things, as they are by far the 
+        easiest way to add neat functions to your code.
 
     Go nuts, try it out!
